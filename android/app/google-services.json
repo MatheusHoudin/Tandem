@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "24304557486",
+    "firebase_url": "https://tandem-1563814362247.firebaseio.com",
+    "project_id": "tandem-1563814362247",
+    "storage_bucket": "tandem-1563814362247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24304557486:android:aff148c68b79c566",
+        "android_client_info": {
+          "package_name": "com.example.tandem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24304557486-nic2i6bapbvj5vqi4ppe3posrni49sod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT43li0mcIYHYcjri3yVsGTx3cTXjroyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24304557486-nic2i6bapbvj5vqi4ppe3posrni49sod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24304557486-5vo063jjdbpnmeifmc25kvetj323qat8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Tandem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
